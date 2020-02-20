@@ -1,0 +1,9 @@
+wordcloud
+requests
+py-translate
+rope
+googletrans
+nltk
+sklearn
+pandas
+chardet
